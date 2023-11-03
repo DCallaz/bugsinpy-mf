@@ -1,0 +1,2 @@
+/home/21831599/data/masters/BugsInPy/projects/PySnooper/bugs/2 (pytest -q -s tests/test_pysnooper.py::test_custom_repr_single)
+PASS: 1
